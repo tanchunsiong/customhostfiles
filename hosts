@@ -14173,9 +14173,9 @@ ff02::3		ip6-allhosts
 # John Mueller and Lawrence H Smith for Mac Pre-OSX information
 # Jesse Baird for the Cisco IOS script
 
-###custom block
+### custom block ###
 
-Wed Aug 5 08:57:00 2015
+#Wed Aug 5 08:57:00 2015
 127.0.0.1 cdn1.eclkspbn.com
 127.0.0.1 download.filmfanatic.com
 127.0.0.1 c.bebi.com
